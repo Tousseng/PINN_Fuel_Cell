@@ -1,0 +1,3 @@
+from .color_plots import plot_cfd_pinn_comparison
+from .histogramm_plots import plot_error_histogram
+from .parity_plots import plot_error_scatter
