@@ -1,5 +1,5 @@
 # PINN - Fuel Cell
-This repository is part of the publication **INSERT**. It was developed by the following people:
+This repository is part of the data publication [Python Model PINN Fuel Cell v1.0.0](https://doi.org/10.5281/zenodo.17131101). It was developed by the following people:
 - Julian Toussaint (**Corresponding Author**), 
 [Send email](mailto:Toussaint@tme.rwth-aachen.de?subject=Code%20of%20PINN%20-%20Fuel%20Cell)
 - Sebastian Pieper (**Code engineer**), 
